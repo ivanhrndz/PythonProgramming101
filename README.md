@@ -17,7 +17,7 @@ By the end of our workshop, you’ll be able to define Python programming fundam
 - Define how Python compares to other programming languages.
 - Describe the benefits of a Python workflow when working with data.
 - Demonstrate basic understanding of Python programming fundamentals.
-- Apply Python code to solve real world data issues.
+- Apply Python code to solve problems.
 
 ---
 
