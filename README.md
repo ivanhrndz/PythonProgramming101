@@ -8,7 +8,7 @@ Whether you have experience in programming or are looking to get started for the
 
 In this workshop, you’ll learn all about Python - including how to get started, what advantages and disadvantages Python provides as a programming language, the essentials of programming in Python, and what tools are available to analyze and work with data in Python.
 
-By the end of our workshop, you’ll be able to define python programming fundamentals, explain the common python libraries used in data analysis, discuss how python can be applied to a data workflow, and practice applying your newfound Python skills to solve a sample real world problem.
+By the end of our workshop, you’ll be able to define Python programming fundamentals, explain the common Python libraries used in data analysis, practice applying your newfound Python skills to solve a sample problems.
 
 
 #### Students Will Learn How To:
